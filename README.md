@@ -223,16 +223,5 @@ After the images are built successfully, run the following command to start the 
 Once the containers are up and running, open a web browser and navigate to the URL specified for accessing the application.
 Ensure that you have Docker Desktop installed on both Windows and macOS before proceeding with these steps. Adjustments to file navigation and commands may be needed based on your specific environment setup.
 
-# CONTRIBUTION
-
-| NAME  | PERCENTAGE |
-| ------------- | ------------- |
-| DONGYU LIU  | 33.3% |
-| SUMIT SHARMA  | 33.3%  |
-| EKTA BHATIA  | 33.3% |
-| PARTH KALANI  | 33.3%  |
-
-***WE ATTEST THAT WE HAVEN’T USED ANY OTHER STUDENTS’ WORK IN OUR ASSIGNMENT AND ABIDE BY THE POLICIES LISTED IN THE STUDENT HANDBOOK***
-
 
 
