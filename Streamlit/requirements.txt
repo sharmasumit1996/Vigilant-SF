@@ -1,0 +1,12 @@
+streamlit
+pandas
+snowflake-connector-python[pandas]
+python-dotenv
+OpenAI
+leafmap
+google-search-results
+requests
+pinecone-client
+altair
+plotly
+boto3

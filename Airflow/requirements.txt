@@ -1,0 +1,17 @@
+PyPDF2
+tabula-py
+python-dotenv
+pandas
+numpy
+matplotlib 
+requests 
+pydantic
+tqdm
+boto3
+sqlalchemy
+bcrypt
+apache-airflow
+pinecone-client
+openai
+langchain-openai
+langchain
